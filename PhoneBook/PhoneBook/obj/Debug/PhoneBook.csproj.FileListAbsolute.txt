@@ -1,0 +1,7 @@
+C:\efrat\test1\phonebook\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\efrat\test1\phonebook\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\efrat\test1\phonebook\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\efrat\test1\phonebook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\efrat\test1\phonebook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\efrat\test1\phonebook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\efrat\test1\phonebook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

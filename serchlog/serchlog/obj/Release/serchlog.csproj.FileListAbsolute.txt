@@ -1,0 +1,7 @@
+C:\efrat\test1\log\serchlog\serchlog\bin\Release\serchlog.exe.config
+C:\efrat\test1\log\serchlog\serchlog\bin\Release\serchlog.exe
+C:\efrat\test1\log\serchlog\serchlog\bin\Release\serchlog.pdb
+C:\efrat\test1\log\serchlog\serchlog\obj\Release\serchlog.csprojAssemblyReference.cache
+C:\efrat\test1\log\serchlog\serchlog\obj\Release\serchlog.csproj.CoreCompileInputs.cache
+C:\efrat\test1\log\serchlog\serchlog\obj\Release\serchlog.exe
+C:\efrat\test1\log\serchlog\serchlog\obj\Release\serchlog.pdb

@@ -1,0 +1,7 @@
+C:\efrat\test1\Broadcast\BroadcastMany\BroadcastMany\BroadcastMany\bin\Debug\BroadcastMany.exe.config
+C:\efrat\test1\Broadcast\BroadcastMany\BroadcastMany\BroadcastMany\bin\Debug\BroadcastMany.exe
+C:\efrat\test1\Broadcast\BroadcastMany\BroadcastMany\BroadcastMany\bin\Debug\BroadcastMany.pdb
+C:\efrat\test1\Broadcast\BroadcastMany\BroadcastMany\BroadcastMany\obj\Debug\BroadcastMany.csprojAssemblyReference.cache
+C:\efrat\test1\Broadcast\BroadcastMany\BroadcastMany\BroadcastMany\obj\Debug\BroadcastMany.csproj.CoreCompileInputs.cache
+C:\efrat\test1\Broadcast\BroadcastMany\BroadcastMany\BroadcastMany\obj\Debug\BroadcastMany.exe
+C:\efrat\test1\Broadcast\BroadcastMany\BroadcastMany\BroadcastMany\obj\Debug\BroadcastMany.pdb
